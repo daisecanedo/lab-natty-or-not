@@ -1,48 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Criando ebook com IAs Generativas
 
-## 🚀 Introdução
+## Descrição
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+> Criação de livro infantil abordando o tema de volta às aulas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa [ChatGPT](https://chat.openai.com/) para criação da história
+IA Generativa [Leonardo AI](https://leonardo.ai/) para criação das ilustrações
+[PorwerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) para montagem e edição do texto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisei no ChatGPT as principais preocupações no início da volta às aulas para crianças pequenas, quais os pontos fortes adquiridos nessa nova fase.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A experiência na criação de imagens direcionou a criação do conteúdo.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+As limitações impostas no uso de ferramentas gratuitas exigem muita criatividade na criação de conteúdo.
 ```
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [ChatGPT](https://chat.openai.com/) 
+- [Leonardo AI](https://leonardo.ai/)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## Links Interessantes
 
